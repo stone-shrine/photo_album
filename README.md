@@ -30,7 +30,7 @@
 <br>
 
 # 洗い出した要件
-要件定義をまとめたスプレッドシートのリンクを記載。
+https://docs.google.com/spreadsheets/d/1vOCcDvcFyi_Ov-lHUe0XWPVTQVluZZf28QmoLzPqja0/edit#gid=982722306
 
 <br>
 
